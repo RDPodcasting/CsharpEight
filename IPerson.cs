@@ -3,7 +3,6 @@ using System;
 
 namespace CsharpNewVersion
 {
-     
     interface IPerson
     {
         public int Id { get; set; }
