@@ -11,3 +11,9 @@ Para programadores em **C#** que desejam se atualizar com os novos recursos da *
 - Fluxos assíncronos
 - Índices e intervalos
 - Atribuição de união nula
+- Tipos construídos não gerenciados e stackalloc em expressões aninhadas
+- Aprimoramento de cadeias de caracteres idênticas interpoladas
+- Membros Somente Leitura
+- Padrões da propriedade
+- Padrões de tupla
+- Padrões posicionais
