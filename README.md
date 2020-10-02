@@ -1,4 +1,4 @@
-# CsharpEight
+# CsharpEight ![CodeQL](https://github.com/RDPodcasting/CsharpEight/workflows/CodeQL/badge.svg)
 Para programadores em **C#** que desejam se atualizar com os novos recursos da **versão 8.0**
 
 #### Novos recursos e aprimoramentos a partir da versão 8.0
